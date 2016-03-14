@@ -1,3 +1,5 @@
+-- SCHEMA_1
+-- Prac 2 example
 
 CREATE FUNCTION schema_1() 
 RETURNS setof text
